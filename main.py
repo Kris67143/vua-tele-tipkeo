@@ -22,7 +22,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 FIXED_HEADER_CLIP = {'x':200, 'y': 800, 'width':800, 'height': 68}
 TEMP_HEADER_PATH = os.path.join(OUTPUT_DIR, "fixed_header_clip.png")
 LOGO_PATH = os.path.join(os.getcwd(), "logo.png")
-LOGO_POSITION = (600, 60)
+LOGO_POSITION = (600, 65)
 LOGO_SIZE = (100,40)
 
 LEAGUE_HEADER_SELECTOR = ".w-full.bg-\\[\\#e0e6f4\\].text-header-bottom.text-\\[14px\\].leading-\\[22px\\].font-bold.h-\\[34px\\].flex.items-center.px-\\[10px\\]"
