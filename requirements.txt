@@ -1,0 +1,6 @@
+playwright>=1.42.0
+pillow>=10.0.0
+python-telegram-bot>=20.0
+playwright
+python-telegram-bot==20.7
+Pillow
