@@ -9,7 +9,7 @@ from telegram.error import TelegramError
 # --- CẤU HÌNH BOT TELEGRAM & ĐỊNH KỲ ---
 TELEGRAM_BOT_TOKEN = "8397765740:AAHp2ZTsWifRo9jUguH2qv9EB9rnnoA0uW8"
 TELEGRAM_CHAT_ID = "-1002455512034"
-SEND_INTERVAL_SECONDS = 10800
+SEND_INTERVAL_SECONDS = 7200
 
 # --- THÔNG ĐIỆP ĐÍNH KÈM ---
 CAPTION_TEXT = "*🔥 KÈO THƠM HÔM NAY - VÀO NGAY KẺO LỠ ⚽️*\n\n🔗 [CƯỢC NGAY](https://vua99.com/?modal=SIGN_UP)"
